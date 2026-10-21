@@ -1,0 +1,19 @@
+# Virtual Environment
+env/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model cadangan / dataset lokal
+dataset_kamera/
+*.npz
+*.npy
+
+# Editor & OS files
+.vscode/
+.DS_Store
+Thumbs.db
